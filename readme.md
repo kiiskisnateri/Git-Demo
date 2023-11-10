@@ -1,11 +1,11 @@
 # Git ja GitHub kertailuja
 
-1. Forkkaa tämä hakemisto omalle GitHub tilillesi ja kloonaa forkki paikalliseen työasemaan.
-2. Työasemallasi, luo *22PtB* hakemistoon uusi alihakemisto omalla nimelläsi tyyliin *etunimi.sukunimi*
-3. Kytke paikalliseen hakemistoosi uusi *remote/upstream* joka viittaa alkuperäiseen repositorioon.
-4. Tarkasta että näet git haarat tuotanto ja kehitys
-5. Vaihda tuotanto haarasta kehitys haaraan.
-6. Luo omaan *etunimi.sukunimi* hakemistoosi *index.html* tiedosto haluamallasi sisällöllä mutta kuitenkin niin että oma nimesi näkyy selkeästi.
-7. Luo uusi muutos (commit). Kirjoita muutoksen viestiksi oma nimesi.  **HUOM** Varmista että olet siirtynyt *kehitys* haaraan ennen muutokset luomista.
-9. Puske muutokset omaan GitHub repositorioosi
-10. Tee *Pull Request* alkuperäiseen repositorioon josta forkkasit repon alunperin
+1. Forkkaa tämä repositorio omalle GitHub tilillesi ja kloonaa forkki paikalliseen työasemaan.
+2. Luo paikallisesti uusi haara. Nimeä haara tyyliin *etunimi.sukunimi*. Vaihda haarasta *main* haaraan *etunimi.sukunimi*.  
+   **HUOM** Varmista että olet siirtynyt *etunimi.sukunimi* haaraan.  
+3. Työasemallasi, luo *22PtB* hakemistoon uusi alihakemisto omalla nimelläsi tyyliin *etunimi.sukunimi*
+4. Kytke paikalliseen hakemistoosi uusi *remote/upstream* joka viittaa alkuperäiseen repositorioon (https://github.com/JouniJokelainen/Git-Demo.git) ja tarkista mahdolliset muutokset upstreamissa.
+5. Luo omaan *etunimi.sukunimi* hakemistoosi *index.html* tiedosto haluamallasi sisällöllä mutta kuitenkin niin että oma nimesi näkyy selkeästi.
+6. Luo uusi muutos (*commit*). Kirjoita muutoksen viestiksi oma nimesi. 
+7. Puske muutokset haarassa *etunimi.sukunimi* omaan GitHub fork repositorioosi
+8. Tee omasta GitHub forkistasi *Pull Request* siten että muutokset haarasta *etunimi.sukunimi* pyydetään yhdistämään *kehitys* haaraan. 
