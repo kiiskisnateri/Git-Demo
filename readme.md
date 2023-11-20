@@ -9,3 +9,4 @@
 6. Luo uusi muutos (*commit*). Kirjoita muutoksen viestiksi oma nimesi. 
 7. Puske edellä tekemäsi muutokset haarassa *etunimi.sukunimi* omaan GitHub fork repositorioosi
 8. Tee omasta GitHub forkistasi käsin *Pull Request* siten että muutokset haarasta *etunimi.sukunimi* pyydetään yhdistämään *kehitys* haaraan. 
+.
